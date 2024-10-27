@@ -15,3 +15,6 @@
 
 - Numpy devam
 - Pandas
+- Seaborn
+- Matplotlib
+- Titanci veri seti yükleme
