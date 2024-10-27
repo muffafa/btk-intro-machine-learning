@@ -13,4 +13,5 @@
 
 ### Ders 2: Numpy Devam 🐼
 
-- Numpy
+- Numpy devam
+- Pandas
